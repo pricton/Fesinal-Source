@@ -1,0 +1,14 @@
+Fesinal Project – DISCLAIMER
+
+This software replicates itself and modifies the Windows registry to autostart.
+It is intended for educational and testing purposes only.
+
+The program does NOT perform any harmful actions or damage your system.
+However, because it modifies system settings, please test and run it ONLY
+in a controlled environment such as a virtual machine.
+
+By using this software, you agree that Markus Will takes no responsibility
+for any damage, data loss, or other issues caused by its use.
+
+Signature:
+Markus Will
