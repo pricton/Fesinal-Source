@@ -1,0 +1,15 @@
+DISCLAIMER
+
+This software project is provided strictly for educational and testing purposes only.
+
+It demonstrates how programs can replicate themselves, create registry autostart entries, and display harmless notifications. It is NOT intended to cause harm, exploit systems, or be used in real-world environments without consent.
+
+⚠️ Do NOT run this software outside of controlled environments (such as virtual machines or sandboxes).  
+⚠️ The author does not take any responsibility for misuse, data loss, or unintended system behavior caused by this software.
+
+By using, modifying, or sharing this code, you acknowledge full responsibility for your actions and agree that the author (Markus Will) shall not be held liable for any consequences.
+
+Use responsibly. Understand the risks.
+
+—  
+Signature: Markus Will
