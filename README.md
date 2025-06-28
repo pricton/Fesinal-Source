@@ -18,7 +18,7 @@ Files Included
 
 fesinal.exe — Compiled executable
 
-fesinal.cpp — Source code
+main.cpp — Source code
 
 fesinal.ico — Icon file
 
